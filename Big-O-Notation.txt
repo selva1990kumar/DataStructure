@@ -1,0 +1,7 @@
+O(1)
+O(N)
+O(N^2)
+O(2N)
+O(Infinity)
+O(log N)
+O(N log N)
